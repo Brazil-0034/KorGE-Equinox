@@ -1,2 +1,2 @@
 # KorGE-Equinox
-KorGE Test Project
+KorGE JS Project
